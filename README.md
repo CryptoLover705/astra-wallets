@@ -8,6 +8,7 @@ Let it download and once it has downloaded open `Astracoin-qt.exe`, Let it load
 
 Once you have run the wallet once close it and go to `C:\Users\<YOURUSER>\AppData\Roaming\AstraCoin`
 Then right click and edit the `Astracoin.conf` file with a text editor (notepad++) and paste this into it
+
 `PLEASE NOTE: Change the RPC USER and  RPC PASSWORD`
 ```
 rpcuser=<someuser>
