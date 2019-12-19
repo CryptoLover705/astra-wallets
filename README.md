@@ -1,13 +1,12 @@
 # astra-wallets
 
 ## Download the wallet
-To download the wallet go to [Releases](https://www.google.com)
+To download the wallet go to [releases](https://github.com/CryptoLover705/astra-wallets/releases) and click on the wallet you need 
 
-
-
+Let it download and once it has downloaded open `Astracoin-qt.exe`, Let it load
 ## Astracoin.conf file details
 
-Once you have run the wallet once close it and go to 
+Once you have run the wallet once close it and go to `C:\Users\<YOURUSER>\AppData\Roaming\AstraCoin`
 Then right click and edit the `Astracoin.conf` file with a text editor (notepad++) and paste this into it
 `PLEASE NOTE: Change the RPC USER and  RPC PASSWORD`
 ```
@@ -29,3 +28,4 @@ addnode=109.180.143.3:4144
 addnode=155.138.160.37:4144
 addnode=51.68.198.137:4144
 ```
+Hit save, Navigate back to `Astracoin-qt.exe` and open it again you will have to allow for the wallet to sync up to the correct block 
