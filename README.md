@@ -22,11 +22,9 @@ txindex=1
 logtimestamps=1
 maxconnections=256
 staking=1
-addnode=155.138.213.33:4144
-addnode=144.202.28.165:4144
-addnode=94.30.28.121:4144
-addnode=109.180.143.3:4144
-addnode=155.138.160.37:4144
+addnode=108.175.2.113:4144
 addnode=51.68.198.137:4144
+addnode=155.138.194.233:4144
+addnode=144.91.104.184:4144
 ```
 Hit save, Navigate back to `Astracoin-qt.exe` and open it again you will have to allow for the wallet to sync up to the correct block 
